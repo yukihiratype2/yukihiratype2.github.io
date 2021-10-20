@@ -14,6 +14,7 @@ Education
 * 可以使用 Markdown 修改
 * 修改完后提交commit就可以
 * 稍等几分钟刷新页面就可以看到效果
+* refresh
 
 Work experience
 ======
