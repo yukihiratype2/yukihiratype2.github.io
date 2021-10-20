@@ -1,22 +1,15 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "链接地址"
     url: /publications/
 
-  - title: "Talks"
+  - title: "在 _data/navigation "
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "里面可以随意修改"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+
