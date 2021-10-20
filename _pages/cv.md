@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 可以使用 Markdown 修改
+* 修改完后提交commit就可以
+* 稍等几分钟刷新页面就可以看到效果
 
 Work experience
 ======
