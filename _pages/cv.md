@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /
 author_profile: true
 redirect_from:
   - /resume
@@ -14,7 +14,7 @@ Education
 * 可以使用 Markdown 修改
 * 修改完后提交commit就可以
 * 稍等几分钟刷新页面就可以看到效果
-* refresh
+* refresh，refresh
 
 Work experience
 ======
