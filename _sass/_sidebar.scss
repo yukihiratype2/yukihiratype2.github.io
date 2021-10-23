@@ -145,9 +145,9 @@
     }
   }
 
-  @include breakpoint($large) {
+  // @include breakpoint($large) {
     display: block;
-  }
+  // }
 
   button {
     margin-bottom: 0;
